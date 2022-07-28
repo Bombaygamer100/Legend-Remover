@@ -1,7 +1,7 @@
 {
   "name": "forward-tag-remover",
   "env": {
-    "BOT_TOKEN": {
+    "BOT_TOKEN": "5578719668:AAHyqW3SeDi9AjJDpNm3_N7ue6zBGf4xZOU"
       "description": "Your bot token, as a string.",
       "value": ""
     },
